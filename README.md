@@ -2,7 +2,7 @@
 
 While there are plenty of great built-in model libraries, I find it very useful to code basic model algorithms from scratch. It will help you gain a much deeper understanding of what's inside those commonly-used supervised and unsupervised learning tools. 
 
-From now on, I will add python codes for the following algorithms 
+From now on, I will gradually add python codes for the following algorithms 
  - Linear Regression
  - Logistic Regression
  - Neural Networks
