@@ -3,8 +3,8 @@
 While there are plenty of great built-in model libraries, I find it very useful to code basic model algorithms from scratch. It will help you gain a much deeper understanding of what's inside those commonly-used supervised and unsupervised learning tools. 
 
 From now on, I will gradually add python codes for the following algorithms 
- - Linear Regression (by 2015/9/25)
- - Logistic Regression (by 2015/10/2)
+ - Linear Regression (Completed)
+ - Logistic Regression (Completed)
  - Neural Networks (by 2015/10/16)
  - K-nearest Neighbour Regression & Classification (by 2015 10/23)
  - Anomaly detection (by 2015/10/30)
