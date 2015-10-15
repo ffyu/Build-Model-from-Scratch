@@ -5,10 +5,10 @@ While there are plenty of great built-in model libraries, I find it very useful 
 From now on, I will gradually add python codes for the following algorithms 
  - Linear Regression (Completed)
  - Logistic Regression (Completed)
- - Neural Networks (by 2015/10/7)
- - K-nearest Neighbour Regression & Classification (by 2015 10/15)
- - Anomaly detection (by 2015/10/22)
- - Principle Component Analysis (by 2015/10/29)
+ - Neural Networks (Completed)
+ - K-nearest Neighbour Regression & Classification (by 2015 10/17)
+ - Anomaly detection (by 2015/10/24)
+ - Principle Component Analysis (by 2015/10/31)
 
 This work is heavily inspired by the materials and notes from [Andrew Ng's Machine Learning Class](https://www.coursera.org/learn/machine-learning).
 
