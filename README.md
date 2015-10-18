@@ -6,7 +6,7 @@ From now on, I will gradually add python codes for the following algorithms
  - Linear Regression (Completed)
  - Logistic Regression (Completed)
  - Neural Networks (Completed)
- - K-nearest Neighbour Regression & Classification (by 2015 10/17)
+ - K-nearest Neighbour Regression & Classification (Completed)
  - Anomaly detection (by 2015/10/24)
  - Principle Component Analysis (by 2015/10/31)
 
