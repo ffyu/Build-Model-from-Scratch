@@ -9,6 +9,7 @@ From now on, I will gradually add python codes for the following algorithms
  - K-nearest Neighbour Regression & Classification (Completed)
  - Anomaly detection (by 2015/10/24)
  - Principle Component Analysis (by 2015/10/31)
+ - Anything else? (TBD)
 
 This work is heavily inspired by the materials and notes from [Andrew Ng's Machine Learning Class](https://www.coursera.org/learn/machine-learning).
 
