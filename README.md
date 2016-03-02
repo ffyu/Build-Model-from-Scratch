@@ -1,5 +1,8 @@
 # Build Basic Machine Learning Algorithms from Scratch
 
+** Please note that the equations are not rendered properly with Firefox in Linux. Please use Chrome to view the Jupyter/Ipython notebooks here. This is an known issue mentioned [here](https://github.com/jupyter/nbviewer/issues/452), and I will keep posted if any update is available.**
+
+
 While there are plenty of great built-in model libraries, I find it very useful to code basic model algorithms from scratch. It will help you gain a much deeper understanding of what's inside those commonly-used supervised and unsupervised learning tools. 
 
 From now on, I will gradually add python codes for the following algorithms 
@@ -11,7 +14,7 @@ From now on, I will gradually add python codes for the following algorithms
  - Principle Component Analysis (Completed)
  - Anything else? (TBD, such as K-Means, Decision Tree?)
 
-This work is heavily inspired by the materials and notes from [Andrew Ng's Machine Learning Class](https://www.coursera.org/learn/machine-learning).
+This work is partially inspired by the materials and notes from [Andrew Ng's Machine Learning Class](https://www.coursera.org/learn/machine-learning).
 
 The dependencies include:
  - [numpy](http://docs.scipy.org/doc/numpy/user/install.html)
