@@ -1,6 +1,6 @@
 # Build Basic Machine Learning Algorithms from Scratch
 
-** Please note that the equations are not rendered properly with Firefox in Linux. Please use Chrome to view the Jupyter/Ipython notebooks here. This is an known issue mentioned [here](https://github.com/jupyter/nbviewer/issues/452), and I will keep posted if any update is available.**
+**Please note that the equations are not rendered properly with Firefox in Linux. Please use Chrome to view all the Jupyter/Ipython notebooks. This is an known issue mentioned [here](https://github.com/jupyter/nbviewer/issues/452), and I will keep posted if any update is available.**
 
 
 While there are plenty of great built-in model libraries, I find it very useful to code basic model algorithms from scratch. It will help you gain a much deeper understanding of what's inside those commonly-used supervised and unsupervised learning tools. 
