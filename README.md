@@ -12,7 +12,7 @@ From now on, I will gradually add python codes for the following algorithms
  - K-nearest Neighbour Regression & Classification (Completed)
  - Anomaly detection (Completed)
  - Principle Component Analysis (Completed)
- - Anything else? (TBD, such as K-Means, Decision Tree?)
+ - Anything else? (TBD, such as K-Means, Decision Tree, and collaborative filterting?)
 
 This work is partially inspired by the materials and notes from [Andrew Ng's Machine Learning Class](https://www.coursera.org/learn/machine-learning).
 
